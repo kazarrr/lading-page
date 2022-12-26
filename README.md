@@ -1,2 +1,2 @@
 # lading-page
-coding my first landinf page
+coding my first landing page
